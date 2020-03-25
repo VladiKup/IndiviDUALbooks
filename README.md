@@ -1,0 +1,2 @@
+# IndiviDUALbooks
+MyData IndiviDUALbooks, for under-served people, rescue &amp; learning. It is a 'MyData best practices' dissemination solution.  When libraries are not accessible (closed / pandemic), secure &amp; trusted communication between experts &amp; citizen is paramount: - with 2clicks-access - at #IndiviDUALbook's QR-code, on-demand printed, safely (24hour 'quarantine') cycling beyond library walls. 
