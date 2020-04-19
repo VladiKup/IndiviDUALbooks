@@ -11,6 +11,13 @@ improving life quality
 - and their combination enables seamless, human-centric access to the Learning's 'best practices', 
 - indiviDUALly i.e. via human senses AND via digital twins, tools of subsystem's products.
 
+A physical UNIQUE oeBook is home delivered in hours (with the expert advices, human-readable & machine-readable/by scan at UpCode sticker), 
+engaging even digitally illiterate users by human-centric & optimal learning (paper) form factor, associated with TRUSTED (PL) experiences
+
+relevant to context of the unique user/'crisis patient': see slides 16, 28 of oeBooks presentation https://bit.ly/oeBookSlides4Aalto;
+
+watch 2 minutes video of #HackTheCrisisFinland https://vimeo.com/399509367.
+
 Subsystems (1-8):
 
 (1) MyData.org, a non-profit organization, the umbrella, uniting expert communities for ETHICAL human-centric data processing;
@@ -79,9 +86,4 @@ enriched by 'the 3rd coordinate' of interactions angle-of-sight, from subsystems
 enabling co-working of subsystems (1-7), in collaboration and automously.
 
 
-A physical UNIQUE oeBook is home delivered in hours (with the expert advices, human-readable & machine-readable/by scan at UpCode sticker), 
-engaging even digitally illiterate users by human-centric & optimal learning (paper) form factor, associated with TRUSTED (PL) experiences
 
-relevant to context of the unique user/'crisis patient': see slides 16, 28 of oeBooks presentation https://bit.ly/oeBookSlides4Aalto;
-
-watch 2 minutes video of #HackTheCrisisFinland https://vimeo.com/399509367
