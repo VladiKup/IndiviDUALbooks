@@ -76,6 +76,7 @@ enriched by '3rd coordinate' interactions from subsystems (5-6).
 
 enabling co-working of subsystems (1-7), in collaboration and automously.
 
+
 A physical UNIQUE oeBook is home delivered in hours (with the expert advices, human-readable & machine-readable/by scan at UpCode sticker)
 
 relevant to contexts of the unique 'patient':
