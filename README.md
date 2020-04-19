@@ -44,17 +44,19 @@ oeBooks 1-pager: https://bit.ly/IndiviDUALbooks4FLA1pager.
 
 recording time&place changes of human 'glance directions' / scans of inter-positions of ethical 'best practice's tags;
 
-at user's memex-like Edge processors, https://en.wikipedia.org/wiki/Memex, 
+at user's memex-like Edge processors, https://en.wikipedia.org/wiki/Memex, real life Edge AI MyData processors - per subsystem (2),
 
 of interaction between end-user and the surrounding Smart tags;
 
 thus quick-delivering the context-related 'best practice', improving life quality. 
 
-This method leverages DHID/DP3T findings (https://github.com/disposableidentities/healthcrisis/blob/master/README.md),
+This method may leverage DHID/DP3T findings, i.e. utilizing BLE data (https://github.com/disposableidentities/healthcrisis/blob/master/README.md),
 
-but without need of smartphones (phone BLE data may be replaced by Li-Fi), i.e. for wider serving under-served groups of population, 
+or without need of smartphones (phone BLE data may be replaced by Li-Fi), for wider serving under-served groups of population, 
 
-for 'best practices' 60+% of population penetration - leveraging PL networks actual ubiquity in developed/EU countries, + 'non-library patrons' money users: subsystem (4) offers improvement of purchasing practices via incentivized e-wallets;
+for raising 'best practices' to 60+% of population penetration - leveraging PL networks actual ubiquity in developed/EU countries, 
+
++ 'non-library patrons' money users: subsystem (4) offers improvement of purchasing practices via incentivized e-wallets;
 
 PL patrons = 20% in EU to 40% in Finland (excluding non-reading babies 2,5%; non-curable for library/impaired groups 5%);
 
@@ -73,3 +75,9 @@ enriched by '3rd coordinate' interactions from subsystems (5-6).
 (8) Li-Fi, the wireless communication technology which utilizes light to transmit data and position between devices;
 
 enabling co-working of subsystems (1-7), in collaboration and automously.
+
+A physical UNIQUE oeBook is home delivered in hours (with the expert advices, human-readable & machine-readable/by scan at UpCode sticker)
+
+relevant to contexts of the unique 'patient':
+
+watch 2 minutes video of #HackTheCrisisFinland https://vimeo.com/399509367
