@@ -39,7 +39,11 @@ for ubiquity and human-centricity of 'best practices' societal penetration & mas
 
 recording time&place changes of human 'glance directions' / scans of inter-positions of ethical 'best practice's tags;
 
-at user's memex-like, https://en.wikipedia.org/wiki/Memex, of interaction between end-user and life quality improving, . 
+at user's memex-like, https://en.wikipedia.org/wiki/Memex, 
+
+of interaction between end-user and the surrounding Smart tags;
+
+thus quick-delivering the context-related 'best practice', improving life quality. 
 
 This method leverages DHID/DP3T findings (GitHub), but without need of smartphones, i.e. for wider serving under-served groups of population, for 'best practices' (like DHID/DP3T for contact tracing) 60+% of population penetration;
 
