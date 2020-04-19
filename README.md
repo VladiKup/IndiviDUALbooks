@@ -37,7 +37,7 @@ for ubiquity and human-centricity of 'best practices' societal penetration & mas
 
 (6) ScanTORI, The habit & The method of MIRO (My Interaction with Relevant Objects; like recording of mirror reflections data);
 
-recording time&place changes of human 'glance directions' / scans of inter-positions of ethical 'best practice's'tags;
+recording time&place changes of human 'glance directions' / scans of inter-positions of ethical 'best practice's tags;
 
 at user's memex-like, https://en.wikipedia.org/wiki/Memex, of interaction between end-user and life quality improving, . 
 
