@@ -14,7 +14,9 @@ Subsystems (1-8):
 
 takes the responsibility to deliver to global users the experts' choice of a 'best practice', in context of user's data & event.
 
-(2) MyData cooperative (pending form, like a platforms cooperative / PPP), a MyData Case Library/https://mydata.org/cases/ ;
+(2) MyData cooperative (pending form, like a platforms cooperative / PPP), a MyData Case Library
+
+https://mydata.org/cases/ ;
 
 Open Accessible (via PL networks?) for any cooperative member, as a grassroots movement for personal dignity, in hyper-connected world.
 
