@@ -5,7 +5,7 @@ with 2clicks-access via #IndiviDUALbook's UpCode/DUAL stickers, on-demand printe
 
 Our solution for MASS dissemination combines several sub-systems (1-8), each may function (or not) also autonomously, 
 improving life quality
-- and their combination enables seamless, human-centric access to the Learning's 'best practices', indiviDUALly: 
+- and their combination enables seamless, human-centric access to the Learning's 'best practices', indiviDUALly 
 - via human senses AND via digital tools/twins of subsystem's products.
 
 Subsystems (1-8):
