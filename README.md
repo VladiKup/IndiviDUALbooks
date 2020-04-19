@@ -4,7 +4,7 @@ MyData IndiviDUALbooks, for under-served people, rescue &amp; learning. It is a 
 When knowledge sources are not accessible (e.g. closed by pandemic; paywalled; marginalized; privacy harming),
 
 secure &amp; trusted communication between experts &amp; citizen is paramount: 
-with 2clicks-access via #IndiviDUALbook's UpCode/DUAL stickers, on-demand SECURELY printed, for safe P2P cycling beyond Public Libraries/PL.
+with 2clicks-access via UpCode/DUAL stickers of IndiviDUALbook/oeBook (Open Europe book), on-demand SECURELY printed, for safe P2P cycling beyond Public Libraries/PL.
 
 Our solution for MASS dissemination combines several sub-systems (1-8), each may function (or not) also autonomously, 
 improving life quality
@@ -43,7 +43,7 @@ leveraging Smart tags as links for any data with personal rights and values (int
 
 UpCode coordinates this project.
 
-(5) MyData IndiviDUALbooks / oeBooks (Open Europe books), PL paper books, on- & off-line enriched by products of subsystems (1-4);
+(5) MyData IndiviDUALbooks, PL paper books, on- & off-line enriched by products of subsystems (1-4);
 
 for ubiquity and Online2Offline-protection of 'best practices' Smart tags-as-carriers of societal penetration & mass dissemination;
 
