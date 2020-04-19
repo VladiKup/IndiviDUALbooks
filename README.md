@@ -45,7 +45,15 @@ of interaction between end-user and the surrounding Smart tags;
 
 thus quick-delivering the context-related 'best practice', improving life quality. 
 
-This method leverages DHID/DP3T findings (GitHub), but without need of smartphones, i.e. for wider serving under-served groups of population, for 'best practices' (like DHID/DP3T for contact tracing) 60+% of population penetration;
+This method leverages DHID/DP3T findings (https://github.com/disposableidentities/healthcrisis/blob/master/README.md),
+
+but without need of smartphones, i.e. for wider serving under-served groups of population, 
+
+for 'best practices' 60+% of population penetration - leveraging PL networks actual ubiquity in developed/EU countries, + 'non-library patrons' money users: subsystem (4) offers improvement of purchasing practices via incentivized e-wallets;
+
+PL patrons = 20% in EU to 40% in Finland (excluding non-reading babies 2,5%; non-curable for library/impaired groups 5%);
+
+needed for efficiency of 'best practices' dissemination, e.g. for contact tracing, via DHID/DP3T;
 
 by looking/scanning at the TOp RIght (TORI) corner of physical or virtual objects, mass-placed at what3words.com axes intersections.
 
