@@ -36,7 +36,9 @@ UpCode coordinates this project.
 
 (5) MyData IndiviDUALbooks / oeBooks (Open Europe books), PL books enriched by products of subsystems (1-4);
 
-for ubiquity and human-centricity of 'best practices' societal penetration & mass dissemination.
+for ubiquity and human-centricity of 'best practices' societal penetration & mass dissemination;
+
+oeBooks 1-pager: https://bit.ly/IndiviDUALbooks4FLA1pager.
 
 (6) ScanTORI, The habit & The method of MIRO (My Interaction with Relevant Objects; like recording of mirror reflections data);
 
