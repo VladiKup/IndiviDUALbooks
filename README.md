@@ -56,7 +56,7 @@ by looking/scanning at the TOp RIght (TORI) corner of physical or virtual object
 
 recording time&place changes of human 'glance directions' / scans of inter-positions of ethical 'best practice's tags;
 
-at user's memex-like Edge processors, https://en.wikipedia.org/wiki/Memex, MyData Global Edge AI operators - per subsystem (2);
+at user's memex-like Edge processors, https://en.wikipedia.org/wiki/Memex, by MyData Global Edge AI operators - per subsystem (2);
 
 for user's contextual (seamless, human senses friendly) control of interactions between end-user and the surrounding Smart tags;
 
