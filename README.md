@@ -9,6 +9,7 @@ improving life quality
 - via human senses AND via digital tools/twins of subsystem's products.
 
 Subsystems (1-8):
+
 (1) MyData.org, a non-profit organization, the umbrella, uniting expert communities for ETHICAL human-centric data processing;
 takes the responsibility to deliver to global users the experts' choice of a 'best practice', in context of user's data & event.
 
