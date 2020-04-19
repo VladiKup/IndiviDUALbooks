@@ -47,7 +47,7 @@ thus quick-delivering the context-related 'best practice', improving life qualit
 
 This method leverages DHID/DP3T findings (https://github.com/disposableidentities/healthcrisis/blob/master/README.md),
 
-but without need of smartphones, i.e. for wider serving under-served groups of population, 
+but without need of smartphones (phone BLE data may be replaced by Li-Fi), i.e. for wider serving under-served groups of population, 
 
 for 'best practices' 60+% of population penetration - leveraging PL networks actual ubiquity in developed/EU countries, + 'non-library patrons' money users: subsystem (4) offers improvement of purchasing practices via incentivized e-wallets;
 
@@ -55,7 +55,9 @@ PL patrons = 20% in EU to 40% in Finland (excluding non-reading babies 2,5%; non
 
 needed for efficiency of 'best practices' dissemination, e.g. for contact tracing, via DHID/DP3T;
 
-by looking/scanning at the TOp RIght (TORI) corner of physical or virtual objects, mass-placed at what3words.com axes intersections.
+by looking/scanning at the TOp RIght (TORI) corner of physical or virtual objects, mass-placed at what3words.com axes intersections
+
+How it works (notes of data at what3words.com axes intersections) - see comments to Slide 4 https://bit.ly/oeBookPPT.
 
 (7) what3words.com geo-location grid subsystem;
 
