@@ -18,6 +18,8 @@ relevant to context of the unique user/'crisis patient': see slides 16, 28 of oe
 
 watch 2 minutes video of #HackTheCrisisFinland https://vimeo.com/399509367.
 
+NB: oeBooks are less costly than via legacy business models of book production & distribution. 
+
 Subsystems (1-8):
 
 (1) MyData.org, a non-profit organization, the umbrella, uniting expert communities for ETHICAL human-centric data processing;
