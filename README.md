@@ -39,7 +39,7 @@ for ubiquity and human-centricity of 'best practices' societal penetration & mas
 
 recording time&place changes of human 'glance directions' / scans of inter-positions of ethical 'best practice's tags;
 
-at user's memex-like, https://en.wikipedia.org/wiki/Memex, 
+at user's memex-like Edge processors, https://en.wikipedia.org/wiki/Memex, 
 
 of interaction between end-user and the surrounding Smart tags;
 
