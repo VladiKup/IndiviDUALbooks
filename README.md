@@ -1,5 +1,6 @@
 # IndiviDUALbooks. Proof-of-concept.
-MyData IndiviDUALbooks, for under-served people, rescue &amp; learning. It is a 'MyData best practices' dissemination solution.  
+MyData IndiviDUALbooks, for under-served people, rescue &amp; learning. It is a 'MyData best practices' dissemination solution.
+
 When knowledge sources are not accessible (e.g. closed by pandemic; paywalled; marginalized; privacy harming),
 
 secure &amp; trusted communication between experts &amp; citizen is paramount: 
