@@ -3,7 +3,7 @@ MyData IndiviDUALbooks, for under-served people, rescue &amp; learning; 'MyData 
 When knowledge sources are not accessible (e.g. closed by pandemic; paywalled; marginalized; privacy harming),
 
 secure &amp; trusted communication between experts &amp; citizen is paramount: 
-via UpCode/DUAL stickers of IndiviDUALbook/oeBook (Open Europe book), on-demand SECURELY printed, for safe P2P cycling beyond Public Libraries/PL.
+via UpCode/DUAL stickers of IndiviDUALbook/oeBook (Open Europe book), on-demand SECURELY printed, for safe P2P cycling beyond Public Libraries/PL: without involvement of (costly for taxpayer) librarians manual jobs.
 
 Our solution for MASS dissemination combines several sub-systems (1-8), each may function (or not) also autonomously, 
 improving life quality
