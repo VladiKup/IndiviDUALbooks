@@ -94,7 +94,7 @@ enriched by 'the 3rd coordinate' of interactions angle-of-sight, from subsystems
 
 (8) Li-Fi, the wireless communication technology which utilizes light to transmit data and position between devices;
 
-enabling co-working of subsystems (1-7), in collaboration and automously.
+enabling co-working of subsystems (1-7), in collaboration and autonomously.
 
 
 
