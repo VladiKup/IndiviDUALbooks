@@ -31,7 +31,15 @@ takes the responsibility to deliver to global users the experts' choice of a 'be
 
 https://mydata.org/cases/ ;
 
-Open Accessible (via PL networks?) for any cooperative member, as a grassroots movement for personal dignity, in hyper-connected world.
+Open Accessible (via PL networks / MyData Cooperative Operators) for any cooperative member, as a grassroots movement for personal dignity, in hyper-connected world.
+
+This service's business model is B2CoOp2C / Business to Cooperative Operator to Consumer;
+
+Business to (MyData) Cooperative Operator to Consumer: sub-divison of Collective framework of service Governance in human-centric way.
+
+Purpose of stressing this governance model: an indvidual may authorize an algorithm to choose MyData Operator’s API by a context (via seamless access to a MyData Operator’s API, e.g. by a click at the MyData logo, enhanced as-a-button). 
+The choice of a context may be enabled by choice of an interface by an individual (mostly, a seamless choice / MyData responsibility if an individual is nudged to a certain interface type, by MyData logo-button) - relevant to an event & user need. 
+Like a choice of a certain type of QR-code to access services, among open source Data Matrix (GDPR & Open Access-conform) / proprietary Data Matrix (GDPR-conform, but not Open Source) / QR-code (like ChiQR, that is not GDPR-conform, but is sneaking into use in EU, e.g. via Business Finland).
 
 (3) PL networks and resources, including the collaborating non-public libraries & knowledge containers, like University libraries etc. (e.g. Finna.fi; Europeana.eu);
 
