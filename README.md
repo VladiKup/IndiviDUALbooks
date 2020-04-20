@@ -39,7 +39,7 @@ Business to (MyData) Cooperative Operator to Consumer: sub-divison of Collective
 
 Purpose of stressing this governance model: an indvidual may authorize an algorithm to choose MyData Operator’s API by a context (via seamless access to a MyData Operator’s API, e.g. by a click at the MyData logo, enhanced as-a-button). 
 The choice of a context may be enabled by choice of an interface by an individual (mostly, a seamless choice / MyData responsibility if an individual is nudged to a certain interface type, by MyData logo-button) - relevant to an event & user need. 
-Like a choice of a certain type of QR-code to access services, among open source Data Matrix (GDPR & Open Access-conform) / proprietary Data Matrix (GDPR-conform, but not Open Source) / QR-code (like ChiQR, that is not GDPR-conform, but is sneaking into use in EU, e.g. via Business Finland).
+Like a choice of a certain type of QR-code to access services, among open source Data Matrix (GDPR & Open Access-conform) / proprietary Data Matrix (GDPR-conform, but not Open Source) / QR-code (like ChiQR, that is not GDPR-conform, but is sneaking into use in EU, e.g. via Business Finland: "Olemme Suomen Yrittäjien sekä Ohjelmisto- ja e-business ry:n jäseniä" https://chiqr.com/).
 
 (3) PL networks and resources, including the collaborating non-public libraries & knowledge containers, like University libraries etc. (e.g. Finna.fi; Europeana.eu);
 
