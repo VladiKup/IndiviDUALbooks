@@ -1,10 +1,9 @@
 # MyData IndiviDUALbooks. Proof-of-concept.
-MyData IndiviDUALbooks, for under-served people, rescue &amp; learning. It is a 'MyData best practices' dissemination solution.
-
+MyData IndiviDUALbooks, for under-served people, rescue &amp; learning; 'MyData best practices' dissemination service, B2CoOp2C. 
 When knowledge sources are not accessible (e.g. closed by pandemic; paywalled; marginalized; privacy harming),
 
 secure &amp; trusted communication between experts &amp; citizen is paramount: 
-with 2clicks-access via UpCode/DUAL stickers of IndiviDUALbook/oeBook (Open Europe book), on-demand SECURELY printed, for safe P2P cycling beyond Public Libraries/PL.
+via UpCode/DUAL stickers of IndiviDUALbook/oeBook (Open Europe book), on-demand SECURELY printed, for safe P2P cycling beyond Public Libraries/PL.
 
 Our solution for MASS dissemination combines several sub-systems (1-8), each may function (or not) also autonomously, 
 improving life quality
