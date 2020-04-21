@@ -84,7 +84,7 @@ PL patrons = 20% in EU to 40% in Finland (excluding non-reading babies 2,5%; non
 
 60% regular usage is needed for efficiency of 'best practices' dissemination, e.g. for contact tracing, via DHID/DP3T;
 
-How it works (virtual notes of data at what3words.com axes intersections/Edges) - see comments to Slide 4 https://bit.ly/oeBookPPT.
+How it works (virtual notes of 'eye contact data' are sent by 1click/Li-Fi or BLE 'glance' at PERSONAL, but ANONYMOUS sticker's UpCode, from a local library oeBook - to Personal Data Stores/PDS, managed by MyData Operator, like Personium.io, to the nearest what3words.com axis'/w3w axis' intersections/Edges; Open Source version of anonymous data locations nearby:'YOUR PDS is 3 meters away, at w3w axis cross' https://whatfreewords.net/demo/) - see comments to Slide 4 https://bit.ly/oeBookPPT.
 
 (7) what3words.com geo-location grid subsystem;
 
