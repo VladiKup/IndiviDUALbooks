@@ -1,5 +1,21 @@
 # MyData IndiviDUALbooks. Proof-of-concept.
-MyData IndiviDUALbooks, for under-served people, rescue &amp; learning; 'MyData best practices' dissemination service, B2CoOp2C. 
+PROBLEMs.
+1. How to choose & connect to the unique user - the closest relevant to his/her unique issue/need 
+- the 'best practices' (e.g. the COVID-19 contact tracing app: from (millions of apps) in app stores);
+- approved by reliable experts, how to easily access the ethical solutions in times of crisis?
+2. The prevalent economic systems of developed countries are built top-down for corporate & political power growth, 70% of digitalisation solutions fail (Behnam Tabrizi , 2019); not for the empowerment of an individual. 
+This provider-oriented, dead-end dichotomy of development (for centralising power) proves to be destructive for democracy & human dignity (Sh. Zuboff, #TheAGeOfSurveillanceCapitalism), clearly seen during current crisis: the failure of wellbeing promises to people is breaching the social contracts.                        
+Services users, robbed of human right to healthy living & stripped of political power, suffer and lose TRUST in this system because they                                                                                               can’t influence the capitalist (like via GAFAM / USA)/communist (like from China) powerplay and diminish the digital inequality gap growth by peaceful action.
+
+SOLUTION. Personal empowerment, thanks to mass adoption of the user & context relevant best practices, 
+- via human-centric access to digital apps, with TRUST being built:
+- by seamless mass dissemination of indiviDUAL BENEFICIAL digital behaviour habit: visual access to the secure MyData-interface
+- to API's of Mydata-certified Operators / public service operators / public health operators (MyData-IHAN, SITRA Project, Finland)
+- enabled by taking responsibility of the approval of the 'best practices' by global expert community of MyData.org
+- in cases of lacking public service of approval / choice of the 'best practice'. 
+E.g.: choice in EU among several available COVID-19 infected Contact Tracing apps.
+
+Tool: MyData IndiviDUALbooks, for under-served people, rescue &amp; learning; 'MyData best practices' dissemination service, B2CoOp2C. 
 When knowledge sources are not accessible (e.g. closed by pandemic; paywalled; marginalized; privacy harming),
 
 secure &amp; trusted communication between experts &amp; citizen is paramount: 
