@@ -53,9 +53,10 @@ This service's business model is B2CoOp2C / Business to Cooperative Operator to 
 
 Business to (MyData) Cooperative Operator to Consumer: sub-divison of Collective framework of service Governance in human-centric way.
 
-Purpose of stressing this governance model: an indvidual may authorize an algorithm to choose MyData Operator’s API by a context (via seamless access to a MyData Operator’s API, e.g. by a click at the MyData logo, enhanced as-a-button). 
-The choice of a context may be enabled by choice of an interface by an individual (mostly, a seamless choice / MyData responsibility if an individual is nudged to a certain interface type, by MyData logo-button) - relevant to an event & user need. 
-Like a choice of a certain type of QR-code to access services, among open source Data Matrix (GDPR & Open Access-conform) / proprietary Data Matrix (GDPR-conform, but not Open Source) / QR-code (like ChiQR, that is not GDPR-conform, but is sneaking into use in EU, e.g. via Business Finland: "ChiQR Oy is a registered service provider of Business Finland and every year we help many SMEs to apply for various financing, many of which can be difficult to apply for" https://chiqr.com/).
+An indvidual may authorize an algorithm to choose MyData Operator’s API by a context (via seamless access to a MyData Operator’s API, e.g. by a click at the MyData logo, enhanced as-a-button). 
+The choice of a context is enabled by choice of an interface by an individual (a seamless choice / MyData responsibility: 
+an individual is nudged to a certain interface type, by MyData logo-button) - relevant to an event & user need. 
+It's a choice of a certain type of QR-code to access services, among open source Data Matrix (GDPR & Open Access-conform) / proprietary Data Matrix (GDPR-conform, but not Open Source) / opposite to a 'US/Chinese surveillance' QR-code type (like ChiQR, that is not GDPR-conform, but is sneaking into use in EU).
 
 (3) PL networks and resources, including the collaborating non-public libraries & knowledge containers, like University libraries etc. (e.g. Finna.fi; Europeana.eu);
 
@@ -64,7 +65,11 @@ enable accumulation of knowledge resources, to be assessed / peer reviewed / sug
 (4) UpCodeworld.com, http://linker.upcode.net/files/Upcode/Upcode.pdf, THE method to make intelligent solutions to improve processes by handling rich data with AI;
 
 enabling Edge AI processing (never missing a user-controlled processor) of Knowledge & Learning data, 
-leveraging Smart tags as links for any data with personal rights and values (intrinsic & extrinsic). 
+leveraging Smart tags as links for any data with personal rights and values (intrinsic & extrinsic).
+
+Smart tags can work on- and off-line solution, storing private data on citizens mobile device. This data is protected by disposable-id which can be used to build two-sided trust. 
+Citizen creates disposable ID with their photo and selected credentials. Then this ID is used to create eWallet where all data is encrypted either by public or private key. Citizen can proof their identity to third party by showing their UpCode & photo which are stored in local storage. When data is transferred to users ewallet is encrypted and only user can open it. This data transfer is contactless and uses UpCode's as data stream. Data sender can then be sure that data can only be read by receiver and also that receiver is who they pretend to be.  
+Possible uses cases are virtual+paper (DUAL) books, evouchers and healtcare solutions.
 
 UpCode coordinates this project.
 
