@@ -112,7 +112,7 @@ enriched by 'the 3rd coordinate' of interactions angle-of-sight, from subsystems
 
 enabling co-working of subsystems (1-7), in collaboration and autonomously.
 
-##Deliverables and impact of the project
+Deliverables and impact of the project
 
 Costs saving by libraries  
 Costs of library manual work are partially eliminated by the proposed solution. Manual work for at least 10% of books, that will be enhanced by Accessible Formats, for Visually Impaired People (for e.g. 10% of 300 M € taxpayer costs of Finland public libraries) will be replaced via the business model of Œbooks: Peer-to-Peer Œbooks & context data exchange via on-demand localized printing, BEYOND PL walls.   
