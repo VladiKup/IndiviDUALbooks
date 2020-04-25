@@ -112,7 +112,8 @@ enriched by 'the 3rd coordinate' of interactions angle-of-sight, from subsystems
 
 enabling co-working of subsystems (1-7), in collaboration and autonomously.
 
-Deliverables and impact of the project  
+##Deliverables and impact of the project
+
 Costs saving by libraries  
 Costs of library manual work are partially eliminated by the proposed solution. Manual work for at least 10% of books, that will be enhanced by Accessible Formats, for Visually Impaired People (for e.g. 10% of 300 M € taxpayer costs of Finland public libraries) will be replaced via the business model of Œbooks: Peer-to-Peer Œbooks & context data exchange via on-demand localized printing, BEYOND PL walls.   
 Plastic lamination replacement in libraries  
@@ -128,12 +129,12 @@ We help to Open Science / PlanS; Europeana Open Culture projects READ, GIFT: by 
 We leverage open source tech for security & privacy. Among these technologies (& proprietary tech™): 
 - Books on-demand printing, EU: e.g. at Rotomail, Milan, since 2010; Otava, Finland - since 2019 - Digital print, BookOfOne production at ‘last mile’/near user: ‘Espresso Book Machines’, at RISO - Book flexible covers production: light & robust multi-layered eco-paper for book dust jackets / SMARTpaper.fi envelope perforated tags, opened by pulling thread straps: for 1click book retour* - 2D-coding of printed media for (1) machine-readable tasks and (2) naked-eye/ visual engagement   - Adding VoicEye codes for audio-books, it makes up to A3 size pages speak = human sense friendly: oeBook produces audio, offline, for free, via 2D-codes (VoicEye.com) printed at every second page (™proprietary technology of VoicEye; no such level of encryption tech is market available) - UpCode™ Tags Management/ Mobile Access & Interaction™(™proprietary technology of UpCode; no similar level of security is market available); and Open Source TagItSmart™ methods - Pressure Seal technology of SMARTpaper.fi forms, for 3M converting lines, Germany (Post-It stickers) - MyData approach, per GDPR: human-centric personal data usage, controlled by data subject - Copyright royalty 1click flow: Creative Passport, copy-for-own-use & Marrakesh Treaty: “minority wins” - OpenKnowledge.org & MyData.org expertise: AI Ethics, Codes of Conduct for human-centric data. 
 -  Best digital practices of MyData Operators, 1click-accessible via NGI; including ‘Europeana.eu ScanTent’, FAIR data: via UpCode MAI™ at PL & ABC https://www.accessiblebooksconsortium.org/publishing/en/  We are committed to make all Project publications available under the Creative Commons BY 4.0 licence. 
-                                                          Impact. Addressable Markets: population groups (A) + (B)  
+                                  ##Impact. Addressable Markets: population groups (A) + (B)  
 (A) PL patrons NOW = 20% average in EU; 40% in Finland (excluding non-reading babies 2,5%; noncurable for library/impaired groups 5%) + would grow thanks to oeBooks growing availability  (B) + 19% (20% less 1%) Visually Impaired People/VIP in EU (WHO statistics VIP=20%, incl. dyslexia); 1% receive AF books NOW (i.e. lack Societal Inclusion, Access-to-Learning) in Accessible Formats (AF are demanded by Accessibility law), due to legacy, outdated technologies of AF books production & distribution, like audio books in Finland, eBooks world over vs oeBooks/AF-twins*.                     
 We address EACH of VIP & non-VIP: (s)he ‘twins’ book into her unique copy, curing unique issue.                                    
 This project aims to grow to 60% (A+B) regular usage** of personal data services, measurable via UpCode; 60% assessed as efficient for 'best practices' dissemination, e.g. for contact tracing, via DHID/DP3T. How it works: virtual notes of user contact data*** will be AI-storaged at PDS of what3words.com intersections axis /AI Edges, see comments to Slide4 https://bit.ly/oeBookPPT.                                                  
 *2 minutes video of #HackTheCrisisFinland https://vimeo.com/399509367           
-* *Method of ‘regularity of usage’ measurement: DAU, MAU, DAU/MAU https://www.nirandfar.com/never-take-your-eyes-off-this-hacker-metric/             * * *Contacts data include metadata of user’s interaction with Smart tags (UpCode™), virtual & physical; tags data & ‘line-of-sight’ Li-Fi triangulation (or DHID / BLE phone data) will be stored at user-onlycontrolled Edge AI containers at virtual crosses of nearby what3words.com axis 
+* *Method of ‘regularity of usage’ measurement: DAU, MAU, DAU/MAU https://www.nirandfar.com/never-take-your-eyes-off-this-hacker-metric/  * * *Contacts data include metadata of user’s interaction with Smart tags (UpCode™), virtual & physical; tags data & ‘line-of-sight’ Li-Fi triangulation (or DHID / BLE phone data) will be stored at user-onlycontrolled Edge AI containers at virtual crosses of nearby what3words.com axis 
 
 
 
